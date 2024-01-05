@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/netherite_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1026
+      },
+      "model": "mythic:item/severed_assaultron_head"
+    }
+  ]
+}

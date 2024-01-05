@@ -1,0 +1,559 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "0": "mythic:item/handheld_radio",
+    "1": "mythic:item/screen",
+    "particle": "mythic:item/handheld_radio"
+  },
+  "elements": [
+    {
+      "name": "Body",
+      "from": [
+        7,
+        7,
+        0
+      ],
+      "to": [
+        11,
+        13,
+        2
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9,
+          7,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            6
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            6,
+            6,
+            8,
+            12
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            6
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            10,
+            6
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            8,
+            8,
+            6
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            8,
+            8,
+            10
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Screen",
+      "from": [
+        8,
+        11,
+        2
+      ],
+      "to": [
+        10,
+        12,
+        2
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            16,
+            15.8,
+            0,
+            8
+          ],
+          "texture": "#1"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "texture": "#1"
+        },
+        "south": {
+          "uv": [
+            16,
+            0.2,
+            0,
+            8
+          ],
+          "texture": "#1"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "texture": "#1"
+        },
+        "up": {
+          "uv": [
+            2,
+            0,
+            0,
+            0
+          ],
+          "texture": "#1"
+        },
+        "down": {
+          "uv": [
+            2,
+            0,
+            0,
+            0
+          ],
+          "texture": "#1"
+        }
+      }
+    },
+    {
+      "name": "Antenna",
+      "from": [
+        10.5,
+        12,
+        0.5
+      ],
+      "to": [
+        11.25,
+        15,
+        1.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9,
+          7,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            0,
+            11,
+            3
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            10,
+            3,
+            11,
+            6
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8,
+            10,
+            9,
+            13
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            9,
+            10,
+            10,
+            13
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            11,
+            11,
+            10,
+            10
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            11,
+            1
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Knob A",
+      "from": [
+        7.5,
+        13,
+        0.5
+      ],
+      "to": [
+        8.5,
+        13.5,
+        1.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9,
+          7,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            11,
+            1,
+            12,
+            2
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            11,
+            2,
+            12,
+            3
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            11,
+            3,
+            12,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            11,
+            4,
+            12,
+            5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            12,
+            6,
+            11,
+            5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            11,
+            11,
+            10,
+            12
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Knob B",
+      "from": [
+        6.5,
+        10,
+        0.5
+      ],
+      "to": [
+        7,
+        11,
+        1.5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9,
+          7,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            11,
+            10,
+            12,
+            11
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            11,
+            11,
+            12,
+            12
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            12,
+            1,
+            13
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            13,
+            1
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            2,
+            13,
+            1,
+            12
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            13,
+            1,
+            12,
+            2
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "Strap",
+      "from": [
+        11,
+        7,
+        1
+      ],
+      "to": [
+        14,
+        13,
+        1
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          9,
+          7,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            6,
+            3,
+            12
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0,
+            6
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            3,
+            6,
+            6,
+            12
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0,
+            6
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            3,
+            0,
+            0,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            3,
+            0,
+            0,
+            0
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        -1,
+        1,
+        8
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        1,
+        1,
+        8
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        0,
+        7.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        0,
+        7.5
+      ]
+    },
+    "gui": {
+      "translation": [
+        -1.25,
+        -2.25,
+        0
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        -1.25,
+        -13.75,
+        -11.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        1.25,
+        -1.5,
+        -6.75
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        7,
+        10,
+        1
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ]
+}

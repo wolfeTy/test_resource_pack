@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:block/iron_block",
+  "textures": {},
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1032
+      },
+      "model": "mythic:item/smallengine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1033
+      },
+      "model": "mythic:item/smallengine"
+    }
+  ]
+}

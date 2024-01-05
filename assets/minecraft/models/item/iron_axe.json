@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/iron_axe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1038
+      },
+      "model": "mythic:item/copper_axe"
+    }
+  ]
+}

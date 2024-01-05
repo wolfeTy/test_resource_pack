@@ -1,0 +1,78 @@
+{
+    "lasercharging": {
+        "sounds": [
+            "lasercharging"
+        ]
+    },
+    "stimpack": {
+        "sounds": [
+            "stimpack"
+        ]
+    },
+    "radiostatic": {
+        "sounds": [
+            "radiostatic"
+        ]
+    },
+    "radiomorse": {
+        "sounds": [
+            "radiomorse"
+        ]
+    },
+    "wooshfail": {
+        "sounds": [
+            "wooshfail"
+        ]
+    },
+    "electricity": {
+        "sounds": [
+            {
+                "name": "electricity1"
+            },
+            {
+                "name": "electricity2"
+            }
+        ]
+    },
+    "woosh": {
+        "sounds": [
+            {
+                "name": "woosh"
+            },
+            {
+                "name": "woosh2"
+            },
+            {
+                "name": "woosh3"
+            }
+        ]
+    },
+    "sentrycombat": {
+        "sounds": [
+            {
+                "name": "sentrycombat1"
+            },
+            {
+                "name": "sentrycombat2"
+            },
+            {
+                "name": "sentrycombat3"
+            }
+        ]
+    },
+    "sentrywalk": {
+        "sounds": [
+            "sentrywalk"
+        ]
+    },
+    "smallenginestart": {
+        "sounds": [
+            "smallenginestart"
+        ]
+    },
+    "smallenginestop": {
+        "sounds": [
+            "smallenginestop"
+        ]
+    }
+}

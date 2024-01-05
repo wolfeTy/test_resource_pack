@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/torch",
+  "textures": {},
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1036
+      },
+      "model": "mythic:item/pip-boy3000"
+    }
+  ]
+}
