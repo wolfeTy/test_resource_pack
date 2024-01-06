@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:block/wheat",
+  "textures": {},
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1044
+      },
+      "model": "mythic:item/corn_stage1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1045
+      },
+      "model": "mythic:item/corn_stage2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1046
+      },
+      "model": "mythic:item/corn_stage3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1047
+      },
+      "model": "mythic:item/corn_stage4"
+    }
+  ]
+}

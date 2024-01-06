@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/stone",
+  "textures": {},
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1043
+      },
+      "model": "mythic:item/corn_seeds"
+    }
+  ]
+}
