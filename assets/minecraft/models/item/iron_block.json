@@ -13,6 +13,18 @@
         "custom_model_data": 1033
       },
       "model": "mythic:item/smallengine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1050
+      },
+      "model": "mythic:item/mediumengine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1051
+      },
+      "model": "mythic:item/mediumengine"
     }
   ]
 }

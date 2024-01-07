@@ -74,5 +74,10 @@
         "sounds": [
             "smallenginestop"
         ]
+    },
+    "mediumenginestart": {
+        "sounds": [
+            "mediumenginestart"
+        ]
     }
 }
