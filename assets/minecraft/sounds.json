@@ -24,6 +24,11 @@
             "wooshfail"
         ]
     },
+    "galvanicshoot": {
+        "sounds": [
+            "galvanicshoot"
+        ]
+    },
     "electricity": {
         "sounds": [
             {

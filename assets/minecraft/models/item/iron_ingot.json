@@ -9,6 +9,12 @@
         "custom_model_data": 1053
       },
       "model": "mythic:item/galvanic_rifle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1053
+      },
+      "model": "mythic:item/galvanic_rifle"
     }
   ]
 }
