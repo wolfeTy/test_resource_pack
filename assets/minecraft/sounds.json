@@ -9,9 +9,39 @@
             "bulletlazer"
         ]
     },
+    "bulletsmall": {
+        "sounds": [
+            "bulletsmall"
+        ]
+    },
     "bulletmedium": {
         "sounds": [
             "bulletmedium"
+        ]
+    },
+    "bulletbig": {
+        "sounds": [
+            "bulletbig"
+        ]
+    },
+    "reloadfn": {
+        "sounds": [
+            "reloadfn"
+        ]
+    },
+    "reloadbolt": {
+        "sounds": [
+            "reloadbolt"
+        ]
+    },
+    "reloadmagin": {
+        "sounds": [
+            "reloadmagin"
+        ]
+    },
+    "reloadmagout": {
+        "sounds": [
+            "reloadmagout"
         ]
     },
     "stimpack": {

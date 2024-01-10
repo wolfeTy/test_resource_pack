@@ -1,29 +1,7 @@
 {
   "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "item/bow"
-  },
+  "textures": {},
   "overrides": [
-    {
-      "predicate": {
-        "pulling": 1
-      },
-      "model": "item/bow_pulling_0"
-    },
-    {
-      "predicate": {
-        "pulling": 1,
-        "pull": 0.65
-      },
-      "model": "item/bow_pulling_1"
-    },
-    {
-      "predicate": {
-        "pulling": 1,
-        "pull": 0.9
-      },
-      "model": "item/bow_pulling_2"
-    },
     {
       "predicate": {
         "custom_model_data": 1055
@@ -51,6 +29,76 @@
         "pulling": 1
       },
       "model": "mythic:item/sks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1060
+      },
+      "model": "mythic:item/kar98k"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1060,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/kar98k"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1061
+      },
+      "model": "mythic:item/fnfal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1061,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/fnfal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1063
+      },
+      "model": "mythic:item/m40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1063,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/m40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1065
+      },
+      "model": "mythic:item/sw1911"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1065,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/sw1911"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1067
+      },
+      "model": "mythic:item/mg34"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1067,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/mg34"
     }
   ],
   "display": {
