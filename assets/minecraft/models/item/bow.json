@@ -11,26 +11,10 @@
     {
       "predicate": {
         "custom_model_data": 1055,
-        "pull": 0.0,
-        "pulling": 1
-      },
-      "model": "mythic:item/lazerrifle_pulling_0"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1055,
-        "pull": 0.65,
-        "pulling": 1
-      },
-      "model": "mythic:item/lazerrifle_pulling_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1055,
         "pull": 0.9,
         "pulling": 1
       },
-      "model": "mythic:item/lazerrifle_pulling_2"
+      "model": "mythic:item/lazerrifle"
     },
     {
       "predicate": {
@@ -41,26 +25,10 @@
     {
       "predicate": {
         "custom_model_data": 1056,
-        "pull": 0.0,
-        "pulling": 1
-      },
-      "model": "mythic:item/sks_pulling_0"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1056,
-        "pull": 0.65,
-        "pulling": 1
-      },
-      "model": "mythic:item/sks_pulling_1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1056,
         "pull": 0.9,
         "pulling": 1
       },
-      "model": "mythic:item/sks_pulling_2"
+      "model": "mythic:item/sks"
     }
   ],
   "display": {
