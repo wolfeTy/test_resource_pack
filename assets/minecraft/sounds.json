@@ -4,6 +4,16 @@
             "lasercharging"
         ]
     },
+    "bulletlazer": {
+        "sounds": [
+            "bulletlazer"
+        ]
+    },
+    "bulletmedium": {
+        "sounds": [
+            "bulletmedium"
+        ]
+    },
     "stimpack": {
         "sounds": [
             "stimpack"

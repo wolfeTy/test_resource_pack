@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/string"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1057
+      },
+      "model": "mythic:item/ammofusion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1058
+      },
+      "model": "mythic:item/ammo762"
+    }
+  ]
+}
