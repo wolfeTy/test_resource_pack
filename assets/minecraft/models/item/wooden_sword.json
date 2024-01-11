@@ -9,6 +9,54 @@
         "custom_model_data": 1028
       },
       "model": "mythic:item/makeshift_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1100
+      },
+      "model": "mythic:item/wood/longsword_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1101
+      },
+      "model": "mythic:item/wood/katana_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1102
+      },
+      "model": "mythic:item/wood/scythe_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1103
+      },
+      "model": "mythic:item/wood/spear_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1104
+      },
+      "model": "mythic:item/wood/rapier_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1105
+      },
+      "model": "mythic:item/wood/knife_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1106
+      },
+      "model": "mythic:item/wood/saber_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1107
+      },
+      "model": "mythic:item/wood/cleaver_wood"
     }
   ]
 }
