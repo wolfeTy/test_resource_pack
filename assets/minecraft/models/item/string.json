@@ -12,15 +12,27 @@
     },
     {
       "predicate": {
-        "custom_model_data": 1057
+        "custom_model_data": 1058
       },
       "model": "mythic:item/ammofusion"
     },
     {
       "predicate": {
-        "custom_model_data": 1058
+        "custom_model_data": 1059
       },
-      "model": "mythic:item/ammo762"
+      "model": "mythic:item/heavyammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1070
+      },
+      "model": "mythic:item/lightammo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1071
+      },
+      "model": "mythic:item/mediumammo"
     }
   ]
 }

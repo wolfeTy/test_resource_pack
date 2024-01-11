@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/scute"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": -1
+      },
+      "model": "mythic:item/diving_helmet"
+    }
+  ]
+}
