@@ -9,6 +9,54 @@
         "custom_model_data": 1041
       },
       "model": "mythic:item/copper_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1105
+      },
+      "model": "mythic:item/stone/knife_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1108
+      },
+      "model": "mythic:item/stone/longsword_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1109
+      },
+      "model": "mythic:item/stone/katana_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1110
+      },
+      "model": "mythic:item/stone/scythe_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1111
+      },
+      "model": "mythic:item/stone/spear_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1112
+      },
+      "model": "mythic:item/stone/rapier_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1113
+      },
+      "model": "mythic:item/stone/saber_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1114
+      },
+      "model": "mythic:item/stone/cleaver_stone"
     }
   ]
 }

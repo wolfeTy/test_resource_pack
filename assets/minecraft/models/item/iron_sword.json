@@ -57,6 +57,54 @@
         "custom_model_data": 1068
       },
       "model": "mythic:item/mg34"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1115
+      },
+      "model": "mythic:item/iron/longsword_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1116
+      },
+      "model": "mythic:item/iron/katana_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1117
+      },
+      "model": "mythic:item/iron/scythe_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1118
+      },
+      "model": "mythic:item/iron/spear_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1119
+      },
+      "model": "mythic:item/iron/rapier_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1120
+      },
+      "model": "mythic:item/iron/knife_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1121
+      },
+      "model": "mythic:item/iron/saber_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1122
+      },
+      "model": "mythic:item/iron/cleaver_iron"
     }
   ]
 }
