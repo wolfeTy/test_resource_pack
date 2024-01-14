@@ -1,0 +1,104 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/brick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1203
+      },
+      "model": "mythic:item/noodle_bowl_stage0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1204
+      },
+      "model": "mythic:item/noodle_bowl_stage0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1205
+      },
+      "model": "mythic:item/noodle_bowl_stage1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1205
+      },
+      "model": "mythic:item/noodle_bowl_stage1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1205
+      },
+      "model": "mythic:item/noodle_bowl_stage1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1206
+      },
+      "model": "mythic:item/noodle_bowl_stage2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1206
+      },
+      "model": "mythic:item/noodle_bowl_stage2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1206
+      },
+      "model": "mythic:item/noodle_bowl_stage2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1206
+      },
+      "model": "mythic:item/noodle_bowl_stage2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1207
+      },
+      "model": "mythic:item/noodle_bowl_stage3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1207
+      },
+      "model": "mythic:item/noodle_bowl_stage3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1207
+      },
+      "model": "mythic:item/noodle_bowl_stage3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1207
+      },
+      "model": "mythic:item/noodle_bowl_stage3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1207
+      },
+      "model": "mythic:item/noodle_bowl_stage3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1208
+      },
+      "model": "mythic:item/noodle_bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1209
+      },
+      "model": "mythic:item/noodle_bowl"
+    }
+  ]
+}

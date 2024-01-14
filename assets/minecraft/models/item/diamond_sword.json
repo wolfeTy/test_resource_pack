@@ -1,0 +1,110 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1131
+      },
+      "model": "mythic:item/diamond/longsword_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1132
+      },
+      "model": "mythic:item/diamond/katana_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1133
+      },
+      "model": "mythic:item/diamond/scythe_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1134
+      },
+      "model": "mythic:item/diamond/spear_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1135
+      },
+      "model": "mythic:item/diamond/rapier_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1136
+      },
+      "model": "mythic:item/diamond/knife_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1137
+      },
+      "model": "mythic:item/diamond/saber_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1138
+      },
+      "model": "mythic:item/diamond/cleaver_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1139
+      },
+      "model": "mythic:item/em/longsword_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1140
+      },
+      "model": "mythic:item/em/katana_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1141
+      },
+      "model": "mythic:item/em/scythe_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1142
+      },
+      "model": "mythic:item/em/spear_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1143
+      },
+      "model": "mythic:item/em/rapier_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1144
+      },
+      "model": "mythic:item/em/knife_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1145
+      },
+      "model": "mythic:item/em/saber_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1146
+      },
+      "model": "mythic:item/em/cleaver_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1151
+      },
+      "model": "mythic:item/em/sword_em"
+    }
+  ]
+}

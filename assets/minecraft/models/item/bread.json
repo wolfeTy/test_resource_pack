@@ -9,6 +9,12 @@
         "custom_model_data": 1048
       },
       "model": "mythic:item/corn_cob"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1202
+      },
+      "model": "mythic:item/marshmallow_stick_toasted"
     }
   ]
 }

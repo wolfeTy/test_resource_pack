@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/diamond_shovel"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1149
+      },
+      "model": "mythic:item/em/shovel_em"
+    }
+  ]
+}

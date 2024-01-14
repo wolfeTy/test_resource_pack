@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/apple"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1200
+      },
+      "model": "mythic:item/marshmallow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1201
+      },
+      "model": "mythic:item/marshmallow_stick"
+    }
+  ]
+}

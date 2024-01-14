@@ -12,27 +12,39 @@
     },
     {
       "predicate": {
-        "custom_model_data": 1053
+        "custom_model_data": 1054
       },
-      "model": "mythic:item/galvanic_rifle"
+      "model": "mythic:item/guns/lazerrifle"
     },
     {
       "predicate": {
-        "custom_model_data": 1054
+        "custom_model_data": 1055
       },
-      "model": "mythic:item/lazerrifle"
+      "model": "mythic:item/guns/lazerrifle"
     },
     {
       "predicate": {
         "custom_model_data": 1056
       },
-      "model": "mythic:item/sks"
+      "model": "mythic:item/guns/sks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1057
+      },
+      "model": "mythic:item/guns/sks"
     },
     {
       "predicate": {
         "custom_model_data": 1060
       },
-      "model": "mythic:item/kar98k"
+      "model": "mythic:item/guns/kar98k"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1061
+      },
+      "model": "mythic:item/guns/kar98k"
     },
     {
       "predicate": {
@@ -42,21 +54,45 @@
     },
     {
       "predicate": {
+        "custom_model_data": 1063
+      },
+      "model": "mythic:item/guns/fnfal"
+    },
+    {
+      "predicate": {
         "custom_model_data": 1064
       },
-      "model": "mythic:item/m40"
+      "model": "mythic:item/guns/m40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1065
+      },
+      "model": "mythic:item/guns/m40"
     },
     {
       "predicate": {
         "custom_model_data": 1066
       },
-      "model": "mythic:item/sw1911"
+      "model": "mythic:item/guns/sw1911"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1067
+      },
+      "model": "mythic:item/guns/sw1911"
     },
     {
       "predicate": {
         "custom_model_data": 1068
       },
-      "model": "mythic:item/mg34"
+      "model": "mythic:item/guns/mg34"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1069
+      },
+      "model": "mythic:item/guns/mg34"
     },
     {
       "predicate": {

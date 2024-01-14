@@ -9,6 +9,54 @@
         "custom_model_data": 1026
       },
       "model": "mythic:item/severed_assaultron_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1152
+      },
+      "model": "mythic:item/netherite/longsword_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1153
+      },
+      "model": "mythic:item/netherite/katana_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1154
+      },
+      "model": "mythic:item/netherite/scythe_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1155
+      },
+      "model": "mythic:item/netherite/spear_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1156
+      },
+      "model": "mythic:item/netherite/rapier_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1157
+      },
+      "model": "mythic:item/netherite/knife_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1158
+      },
+      "model": "mythic:item/netherite/saber_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1159
+      },
+      "model": "mythic:item/netherite/cleaver_netherite"
     }
   ]
 }

@@ -14,13 +14,13 @@
       "predicate": {
         "custom_model_data": 1058
       },
-      "model": "mythic:item/ammofusion"
+      "model": "mythic:item/guns/ammo/ammofusion"
     },
     {
       "predicate": {
         "custom_model_data": 1059
       },
-      "model": "mythic:item/heavyammo"
+      "model": "mythic:item/guns/ammo/heavyammo"
     },
     {
       "predicate": {
@@ -32,7 +32,7 @@
       "predicate": {
         "custom_model_data": 1071
       },
-      "model": "mythic:item/mediumammo"
+      "model": "mythic:item/guns/ammo/mediumammo"
     }
   ]
 }

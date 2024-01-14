@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/golden_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1123
+      },
+      "model": "mythic:item/gold/longsword_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1124
+      },
+      "model": "mythic:item/gold/katana_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1125
+      },
+      "model": "mythic:item/gold/scythe_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1126
+      },
+      "model": "mythic:item/gold/spear_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1127
+      },
+      "model": "mythic:item/gold/rapier_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1128
+      },
+      "model": "mythic:item/gold/knife_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1129
+      },
+      "model": "mythic:item/gold/saber_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1130
+      },
+      "model": "mythic:item/gold/cleaver_gold"
+    }
+  ]
+}
