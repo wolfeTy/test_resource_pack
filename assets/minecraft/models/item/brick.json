@@ -24,63 +24,9 @@
     },
     {
       "predicate": {
-        "custom_model_data": 1205
-      },
-      "model": "mythic:item/noodle_bowl_stage1"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1205
-      },
-      "model": "mythic:item/noodle_bowl_stage1"
-    },
-    {
-      "predicate": {
         "custom_model_data": 1206
       },
       "model": "mythic:item/noodle_bowl_stage2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1206
-      },
-      "model": "mythic:item/noodle_bowl_stage2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1206
-      },
-      "model": "mythic:item/noodle_bowl_stage2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1206
-      },
-      "model": "mythic:item/noodle_bowl_stage2"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1207
-      },
-      "model": "mythic:item/noodle_bowl_stage3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1207
-      },
-      "model": "mythic:item/noodle_bowl_stage3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1207
-      },
-      "model": "mythic:item/noodle_bowl_stage3"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1207
-      },
-      "model": "mythic:item/noodle_bowl_stage3"
     },
     {
       "predicate": {
