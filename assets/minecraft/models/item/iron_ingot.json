@@ -6,15 +6,9 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 1053
+        "custom_model_data": 1208
       },
-      "model": "mythic:item/galvanic_rifle"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1053
-      },
-      "model": "mythic:item/galvanic_rifle"
+      "model": "mythic:item/access_card"
     }
   ]
 }

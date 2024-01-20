@@ -26,7 +26,7 @@
       "predicate": {
         "custom_model_data": 1070
       },
-      "model": "mythic:item/lightammo"
+      "model": "mythic:item/guns/ammo/lightammo"
     },
     {
       "predicate": {
