@@ -25,6 +25,18 @@
         "custom_model_data": 1051
       },
       "model": "mythic:item/mediumengine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1210
+      },
+      "model": "mythic:item/turbine_engine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1211
+      },
+      "model": "mythic:item/turbine_engine"
     }
   ]
 }

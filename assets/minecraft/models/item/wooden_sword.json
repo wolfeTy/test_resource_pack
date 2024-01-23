@@ -57,6 +57,12 @@
         "custom_model_data": 1107
       },
       "model": "mythic:item/wood/cleaver_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1209
+      },
+      "model": "mythic:item/simple_wand"
     }
   ]
 }

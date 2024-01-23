@@ -125,13 +125,20 @@
             "mediumenginestart"
         ]
     },
+    "largeenginestart": {
+        "sounds": [
+            "largeenginestart"
+        ]
+    },
+    "largeenginestop": {
+        "sounds": [
+            "largeenginestop"
+        ]
+    },
     "eye_ambient": {
         "sounds": [
             {
                 "name": "eye_ambient_1"
-            },
-            {
-                "name": "eye_ambient_2"
             },
             {
                 "name": "eye_ambient_3"
@@ -147,19 +154,6 @@
             },
             {
                 "name": "eye_ambient_7"
-            }
-        ]
-    },
-    "eye_walk": {
-        "sounds": [
-            {
-                "name": "eye_walk_1"
-            },
-            {
-                "name": "eye_walk_2"
-            },
-            {
-                "name": "eye_walk_3"
             }
         ]
     }
