@@ -9,6 +9,12 @@
         "custom_model_data": 1208
       },
       "model": "mythic:item/access_card"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1212
+      },
+      "model": "mythic:item/bos_holotag"
     }
   ]
 }
