@@ -69,6 +69,12 @@
         "custom_model_data": 1214
       },
       "model": "mythic:item/wands/apprentice_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1215
+      },
+      "model": "mythic:item/wands/mage_wand"
     }
   ]
 }
