@@ -33,6 +33,12 @@
         "custom_model_data": 1219
       },
       "model": "mythic:item/fallout/fixer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1232
+      },
+      "model": "mythic:item/fallout/bottlecap"
     }
   ]
 }
