@@ -27,6 +27,12 @@
         "custom_model_data": 1218
       },
       "model": "mythic:item/fallout/buffout"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1219
+      },
+      "model": "mythic:item/fallout/fixer"
     }
   ]
 }

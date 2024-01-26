@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/honey_bottle"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1220
+      },
+      "model": "mythic:item/fallout/nuka_cola_quantum"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1221
+      },
+      "model": "mythic:item/fallout/nuka_cola"
+    }
+  ]
+}

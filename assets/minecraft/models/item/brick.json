@@ -45,6 +45,18 @@
         "custom_model_data": 1209
       },
       "model": "mythic:item/noodle_bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1222
+      },
+      "model": "mythic:item/blood_spatter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1223
+      },
+      "model": "mythic:item/blood_spatter"
     }
   ]
 }
