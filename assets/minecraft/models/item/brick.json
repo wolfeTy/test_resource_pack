@@ -57,6 +57,54 @@
         "custom_model_data": 1223
       },
       "model": "mythic:item/blood_spatter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1224
+      },
+      "model": "mythic:item/blood_spatter_square"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1225
+      },
+      "model": "mythic:item/blood_spatter_square"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1226
+      },
+      "model": "mythic:item/blood_spatter_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1227
+      },
+      "model": "mythic:item/blood_spatter_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1228
+      },
+      "model": "mythic:item/blood_spatter_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1229
+      },
+      "model": "mythic:item/blood_spatter_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1230
+      },
+      "model": "mythic:item/blood_spatter_long_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1231
+      },
+      "model": "mythic:item/blood_spatter_long_corner"
     }
   ]
 }
