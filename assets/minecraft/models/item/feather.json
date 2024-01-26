@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/feather"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1034
+      },
+      "model": "mythic:item/fallout/stimpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1216
+      },
+      "model": "mythic:item/fallout/psycho"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1217
+      },
+      "model": "mythic:item/fallout/medx"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1218
+      },
+      "model": "mythic:item/fallout/buffout"
+    }
+  ]
+}

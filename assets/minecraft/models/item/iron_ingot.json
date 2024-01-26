@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 1208
       },
-      "model": "mythic:item/access_card"
+      "model": "mythic:item/fallout/access_card"
     },
     {
       "predicate": {
         "custom_model_data": 1212
       },
-      "model": "mythic:item/bos_holotag"
+      "model": "mythic:item/fallout/bos_holotag"
     }
   ]
 }

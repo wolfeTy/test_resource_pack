@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "2": "mythic:item/pip-boy3000",
-    "particle": "mythic:item/pip-boy3000"
+    "2": "mythic:item/fallout/pip-boy3000",
+    "particle": "mythic:item/fallout/pip-boy3000"
   },
   "elements": [
     {

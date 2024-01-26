@@ -5,7 +5,7 @@
     32
   ],
   "textures": {
-    "1": "mythic:item/severed_assaultron_head"
+    "1": "mythic:item/fallout/severed_assaultron_head"
   },
   "elements": [
     {

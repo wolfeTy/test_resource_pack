@@ -6,12 +6,6 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 1034
-      },
-      "model": "mythic:item/stimpack"
-    },
-    {
-      "predicate": {
         "custom_model_data": 1058
       },
       "model": "mythic:item/guns/ammo/ammofusion"

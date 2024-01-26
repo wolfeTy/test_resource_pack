@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "mythic:item/stimpack"
+    "layer0": "mythic:item/fallout/bos_holotag"
   }
 }

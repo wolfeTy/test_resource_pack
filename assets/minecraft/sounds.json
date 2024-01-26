@@ -156,5 +156,19 @@
                 "name": "eye_ambient_7"
             }
         ]
+    },
+    "buffout": {
+        "sounds": [
+            {
+                "name": "buffout1"
+            },
+            {
+                "name": "buffout2"
+            },
+            {
+                "name": "buffout3",
+                "weight": 2
+            }
+        ]
     }
 }

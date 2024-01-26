@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "mythic:item/access_card"
+    "layer0": "mythic:item/fallout/access_card"
   },
   "display": {
     "thirdperson_righthand": {
