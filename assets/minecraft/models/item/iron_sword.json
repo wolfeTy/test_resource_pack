@@ -141,6 +141,12 @@
         "custom_model_data": 1122
       },
       "model": "mythic:item/iron/cleaver_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1239
+      },
+      "model": "mythic:item/guns/antimech_gun"
     }
   ]
 }
