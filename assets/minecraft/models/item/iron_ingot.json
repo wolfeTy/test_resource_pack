@@ -15,6 +15,12 @@
         "custom_model_data": 1212
       },
       "model": "mythic:item/fallout/bos_holotag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1237
+      },
+      "model": "mythic:item/geiger_counter"
     }
   ]
 }

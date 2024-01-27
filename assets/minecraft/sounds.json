@@ -170,5 +170,34 @@
                 "weight": 2
             }
         ]
+    },
+    "radiation": {
+        "sounds": [
+            {
+                "name": "radiation1"
+            },
+            {
+                "name": "radiation2"
+            },
+            {
+                "name": "radiation3"
+            },
+            {
+                "name": "radiation4"
+            }
+        ]
+    },
+    "radiationlow": {
+        "sounds": [
+            {
+                "name": "radiationlow1"
+            },
+            {
+                "name": "radiationlow2"
+            },
+            {
+                "name": "radiationlow3"
+            }
+        ]
     }
 }

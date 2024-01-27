@@ -1,7 +1,11 @@
 {
   "credit": "Made with Blockbench",
+  "texture_size": [
+    32,
+    32
+  ],
   "textures": {
-    "1": "mythic:item/blood_spatter_corner"
+    "1": "mythic:item/blood_spatter_semi_rounded"
   },
   "elements": [
     {
@@ -11,9 +15,9 @@
         0
       ],
       "to": [
-        8,
+        16,
         0.25,
-        8
+        16
       ],
       "faces": {
         "north": {
@@ -161,7 +165,7 @@
         0
       ],
       "translation": [
-        -3.75,
+        0,
         3,
         0
       ],
@@ -174,7 +178,7 @@
     "head": {
       "translation": [
         0,
-        10.5,
+        14.25,
         0
       ]
     },

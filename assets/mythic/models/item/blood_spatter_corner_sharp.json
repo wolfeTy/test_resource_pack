@@ -1,7 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "mythic:item/blood_spatter_corner"
+    "0": "mythic:item/blood_spatter_corner_sharp",
+    "particle": "mythic:item/blood_spatter_corner_sharp"
   },
   "elements": [
     {
@@ -59,7 +60,7 @@
             0,
             0
           ],
-          "texture": "#1"
+          "texture": "#0"
         },
         "down": {
           "uv": [
@@ -68,7 +69,7 @@
             0,
             16
           ],
-          "texture": "#1"
+          "texture": "#0"
         }
       }
     }

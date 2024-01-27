@@ -86,13 +86,13 @@
       "predicate": {
         "custom_model_data": 1228
       },
-      "model": "mythic:item/blood_spatter_corner"
+      "model": "mythic:item/blood_spatter_corner_sharp"
     },
     {
       "predicate": {
         "custom_model_data": 1229
       },
-      "model": "mythic:item/blood_spatter_corner"
+      "model": "mythic:item/blood_spatter_corner_sharp"
     },
     {
       "predicate": {
@@ -105,6 +105,30 @@
         "custom_model_data": 1231
       },
       "model": "mythic:item/blood_spatter_long_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1233
+      },
+      "model": "mythic:item/blood_spatter_semi_rounded"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1234
+      },
+      "model": "mythic:item/blood_spatter_semi_rounded"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1235
+      },
+      "model": "mythic:item/blood_spatter_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1236
+      },
+      "model": "mythic:item/blood_spatter_corner"
     }
   ]
 }
