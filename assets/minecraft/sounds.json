@@ -24,6 +24,11 @@
             "bulletbig"
         ]
     },
+    "cannon": {
+        "sounds": [
+            "cannon"
+        ]
+    },
     "reloadfn": {
         "sounds": [
             "reloadfn"
