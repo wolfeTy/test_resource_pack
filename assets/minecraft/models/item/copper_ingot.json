@@ -9,6 +9,24 @@
         "custom_model_data": 1029
       },
       "model": "mythic:item/handheld_radio"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1240
+      },
+      "model": "mythic:item/basic_wrench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1241
+      },
+      "model": "mythic:item/advanced_wrench"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1242
+      },
+      "model": "mythic:item/expert_drill"
     }
   ]
 }

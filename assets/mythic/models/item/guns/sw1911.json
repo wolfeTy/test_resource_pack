@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "mythic:item/texturedmaterials1",
-    "particle": "mythic:item/rgbsheet1"
+    "1": "mythic:item/guns/texturedmaterials1",
+    "particle": "mythic:item/guns/rgbsheet1"
   },
   "elements": [
     {
