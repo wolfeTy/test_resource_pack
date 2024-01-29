@@ -74,6 +74,16 @@
             "galvanicshoot"
         ]
     },
+    "arquebus": {
+        "sounds": [
+            {
+                "name": "arquebus1"
+            },
+            {
+                "name": "arquebus2"
+            }
+        ]
+    },
     "electricity": {
         "sounds": [
             {
