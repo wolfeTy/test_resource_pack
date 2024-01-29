@@ -129,6 +129,18 @@
         "custom_model_data": 1236
       },
       "model": "mythic:item/blood_spatter_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1243
+      },
+      "model": "mythic:item/ender_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1244
+      },
+      "model": "mythic:item/ender_backpack"
     }
   ]
 }

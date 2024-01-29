@@ -147,6 +147,12 @@
         "custom_model_data": 1239
       },
       "model": "mythic:item/guns/antimech_gun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1245
+      },
+      "model": "mythic:item/guns/transuranic_arquebus"
     }
   ]
 }
