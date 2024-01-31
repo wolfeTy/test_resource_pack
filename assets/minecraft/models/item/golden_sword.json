@@ -51,6 +51,24 @@
         "custom_model_data": 1130
       },
       "model": "mythic:item/gold/cleaver_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1252
+      },
+      "model": "mythic:item/gold/warhammer_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1259
+      },
+      "model": "mythic:item/gold/mace_gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1266
+      },
+      "model": "mythic:item/gold/waraxe_gold"
     }
   ]
 }

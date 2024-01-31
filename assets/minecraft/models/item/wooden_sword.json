@@ -75,6 +75,24 @@
         "custom_model_data": 1215
       },
       "model": "mythic:item/wands/mage_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1250
+      },
+      "model": "mythic:item/wood/warhammer_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1257
+      },
+      "model": "mythic:item/wood/mace_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1264
+      },
+      "model": "mythic:item/wood/waraxe_wood"
     }
   ]
 }

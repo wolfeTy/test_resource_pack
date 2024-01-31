@@ -57,6 +57,24 @@
         "custom_model_data": 1114
       },
       "model": "mythic:item/stone/cleaver_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1248
+      },
+      "model": "mythic:item/stone/warhammer_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1255
+      },
+      "model": "mythic:item/stone/mace_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1262
+      },
+      "model": "mythic:item/stone/waraxe_stone"
     }
   ]
 }

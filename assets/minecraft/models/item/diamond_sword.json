@@ -105,6 +105,42 @@
         "custom_model_data": 1151
       },
       "model": "mythic:item/em/sword_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1249
+      },
+      "model": "mythic:item/diamond/warhammer_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1253
+      },
+      "model": "mythic:item/em/warhammer_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1256
+      },
+      "model": "mythic:item/diamond/mace_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1260
+      },
+      "model": "mythic:item/em/mace_em"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1263
+      },
+      "model": "mythic:item/diamond/waraxe_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1267
+      },
+      "model": "mythic:item/em/waraxe_em"
     }
   ]
 }

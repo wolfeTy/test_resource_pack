@@ -159,6 +159,24 @@
         "custom_model_data": 1246
       },
       "model": "mythic:item/guns/plasma_gun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1251
+      },
+      "model": "mythic:item/iron/warhammer_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1258
+      },
+      "model": "mythic:item/iron/mace_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1265
+      },
+      "model": "mythic:item/iron/waraxe_iron"
     }
   ]
 }

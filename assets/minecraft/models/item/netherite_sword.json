@@ -57,6 +57,24 @@
         "custom_model_data": 1159
       },
       "model": "mythic:item/netherite/cleaver_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1247
+      },
+      "model": "mythic:item/netherite/warhammer_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1254
+      },
+      "model": "mythic:item/netherite/mace_netherite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1261
+      },
+      "model": "mythic:item/netherite/waraxe_netherite"
     }
   ]
 }
