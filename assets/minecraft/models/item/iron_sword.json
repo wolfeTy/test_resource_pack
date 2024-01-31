@@ -153,6 +153,12 @@
         "custom_model_data": 1245
       },
       "model": "mythic:item/guns/transuranic_arquebus"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1246
+      },
+      "model": "mythic:item/guns/plasma_gun"
     }
   ]
 }

@@ -84,6 +84,19 @@
             }
         ]
     },
+    "plasma_gun": {
+        "sounds": [
+            {
+                "name": "plasma_gun1"
+            },
+            {
+                "name": "plasma_gun2"
+            },
+            {
+                "name": "plasma_gun3"
+            }
+        ]
+    },
     "electricity": {
         "sounds": [
             {
