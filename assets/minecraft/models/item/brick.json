@@ -50,85 +50,43 @@
       "predicate": {
         "custom_model_data": 1222
       },
-      "model": "mythic:item/blood_spatter"
+      "model": "mythic:item/spills/blood_spatter"
     },
     {
       "predicate": {
         "custom_model_data": 1223
       },
-      "model": "mythic:item/blood_spatter"
+      "model": "mythic:item/spills/blood_spatter_square"
     },
     {
       "predicate": {
         "custom_model_data": 1224
       },
-      "model": "mythic:item/blood_spatter_square"
+      "model": "mythic:item/spills/blood_spatter_side"
     },
     {
       "predicate": {
         "custom_model_data": 1225
       },
-      "model": "mythic:item/blood_spatter_square"
+      "model": "mythic:item/spills/blood_spatter_corner_sharp"
     },
     {
       "predicate": {
         "custom_model_data": 1226
       },
-      "model": "mythic:item/blood_spatter_side"
+      "model": "mythic:item/spills/blood_spatter_long_corner"
     },
     {
       "predicate": {
         "custom_model_data": 1227
       },
-      "model": "mythic:item/blood_spatter_side"
+      "model": "mythic:item/spills/blood_spatter_semi_rounded"
     },
     {
       "predicate": {
         "custom_model_data": 1228
       },
-      "model": "mythic:item/blood_spatter_corner_sharp"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1229
-      },
-      "model": "mythic:item/blood_spatter_corner_sharp"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1230
-      },
-      "model": "mythic:item/blood_spatter_long_corner"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1231
-      },
-      "model": "mythic:item/blood_spatter_long_corner"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1233
-      },
-      "model": "mythic:item/blood_spatter_semi_rounded"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1234
-      },
-      "model": "mythic:item/blood_spatter_semi_rounded"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1235
-      },
-      "model": "mythic:item/blood_spatter_corner"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 1236
-      },
-      "model": "mythic:item/blood_spatter_corner"
+      "model": "mythic:item/spills/blood_spatter_corner"
     },
     {
       "predicate": {
@@ -141,6 +99,72 @@
         "custom_model_data": 1244
       },
       "model": "mythic:item/ender_backpack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1268
+      },
+      "model": "mythic:item/spills/oil_spill"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1269
+      },
+      "model": "mythic:item/spills/oil_spill_square"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1270
+      },
+      "model": "mythic:item/spills/oil_spill_side"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1271
+      },
+      "model": "mythic:item/spills/oil_spill_corner_sharp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1272
+      },
+      "model": "mythic:item/spills/oil_spill_long_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1273
+      },
+      "model": "mythic:item/spills/oil_spill_semi_rounded"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1274
+      },
+      "model": "mythic:item/spills/oil_spill_corner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1275
+      },
+      "model": "mythic:item/kpot"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1276
+      },
+      "model": "mythic:item/kpot_stage_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1277
+      },
+      "model": "mythic:item/kpot_stage_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1278
+      },
+      "model": "mythic:item/kpot_stage_3"
     }
   ]
 }

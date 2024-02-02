@@ -1,7 +1,7 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "mythic:item/blood_spatter_corner"
+    "1": "mythic:item/spills/blood_spatter_corner"
   },
   "elements": [
     {

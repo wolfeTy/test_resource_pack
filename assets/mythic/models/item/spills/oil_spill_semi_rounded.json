@@ -1,8 +1,12 @@
 {
   "credit": "Made with Blockbench",
+  "texture_size": [
+    32,
+    32
+  ],
   "textures": {
-    "0": "mythic:item/blood_spatter_square",
-    "particle": "mythic:item/blood_spatter_square"
+    "0": "mythic:item/spills/oil_spill_semi_rounded",
+    "particle": "mythic:item/spills/oil_spill_semi_rounded"
   },
   "elements": [
     {
@@ -117,7 +121,7 @@
       ],
       "translation": [
         0,
-        4.5,
+        5,
         0
       ],
       "scale": [
@@ -163,20 +167,13 @@
       ],
       "translation": [
         0,
-        3,
+        4.25,
         0
       ],
       "scale": [
         0.625,
         0.625,
         0.625
-      ]
-    },
-    "head": {
-      "translation": [
-        0,
-        14.25,
-        0
       ]
     },
     "fixed": {
