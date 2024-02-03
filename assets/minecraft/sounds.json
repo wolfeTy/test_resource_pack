@@ -79,6 +79,11 @@
             "galvanicshoot"
         ]
     },
+    "lasgun": {
+        "sounds": [
+            "lasgun"
+        ]
+    },
     "arquebus": {
         "sounds": [
             {
