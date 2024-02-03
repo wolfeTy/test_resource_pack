@@ -24,6 +24,11 @@
             "bulletbig"
         ]
     },
+    "meltagun": {
+        "sounds": [
+            "meltagun"
+        ]
+    },
     "cannon": {
         "sounds": [
             "cannon"

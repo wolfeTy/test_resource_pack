@@ -177,6 +177,18 @@
         "custom_model_data": 1265
       },
       "model": "mythic:item/iron/waraxe_iron"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1279
+      },
+      "model": "mythic:item/guns/lasgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1280
+      },
+      "model": "mythic:item/guns/melta_gun"
     }
   ]
 }
