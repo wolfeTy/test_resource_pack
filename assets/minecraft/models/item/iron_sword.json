@@ -189,6 +189,12 @@
         "custom_model_data": 1280
       },
       "model": "mythic:item/guns/melta_gun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1281
+      },
+      "model": "mythic:item/chainsword"
     }
   ]
 }
