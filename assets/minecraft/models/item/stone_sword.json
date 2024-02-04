@@ -75,6 +75,12 @@
         "custom_model_data": 1262
       },
       "model": "mythic:item/stone/waraxe_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1281
+      },
+      "model": "mythic:item/chainsword"
     }
   ]
 }
