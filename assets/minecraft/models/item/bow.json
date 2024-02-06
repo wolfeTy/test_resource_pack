@@ -1,0 +1,258 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1283
+      },
+      "model": "mythic:item/bows/cbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1283,
+        "pull": 0.0,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/cbow_pulling_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1283,
+        "pull": 0.65,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/cbow_pulling_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1283,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/cbow_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1284
+      },
+      "model": "mythic:item/bows/hsbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1284,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/hsbow_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1284,
+        "pull": 0.65,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/hsbow_pulling_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1284,
+        "pull": 0.0,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/hsbow_pulling_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1286
+      },
+      "model": "mythic:item/bows/lsbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1286,
+        "pull": 0.65,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/lsbow_pulling_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1286,
+        "pull": 0.0,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/lsbow_pulling_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1286,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/lsbow_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1287
+      },
+      "model": "mythic:item/bows/rbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1287,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/rbow_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1287,
+        "pull": 0.65,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/rbow_pulling_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1287,
+        "pull": 0.0,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/rbow_pulling_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1288
+      },
+      "model": "mythic:item/bows/sbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1288,
+        "pull": 0.0,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/sbow_pulling_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1288,
+        "pull": 0.65,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/sbow_pulling_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1288,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/sbow_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1289
+      },
+      "model": "mythic:item/bows/redbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1289,
+        "pull": 0.9,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/redbow_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1289,
+        "pull": 0.65,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/redbow_pulling_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1289,
+        "pull": 0.0,
+        "pulling": 1
+      },
+      "model": "mythic:item/bows/redbow_pulling_0"
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -80.0,
+        260.0,
+        -40.0
+      ],
+      "translation": [
+        -1.0,
+        -2.0,
+        2.5
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -80.0,
+        -280.0,
+        40.0
+      ],
+      "translation": [
+        -1.0,
+        -2.0,
+        2.5
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0.0,
+        -90.0,
+        25.0
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0.0,
+        90.0,
+        -25.0
+      ],
+      "translation": [
+        1.13,
+        3.2,
+        1.13
+      ],
+      "scale": [
+        0.68,
+        0.68,
+        0.68
+      ]
+    }
+  }
+}

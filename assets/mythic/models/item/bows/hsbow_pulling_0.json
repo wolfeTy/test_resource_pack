@@ -1,0 +1,6 @@
+{
+  "parent": "item/bow",
+  "textures": {
+    "layer0": "mythic:item/bows/hsbow_pulling_0"
+  }
+}
