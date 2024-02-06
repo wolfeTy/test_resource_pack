@@ -84,6 +84,11 @@
             "lasgun"
         ]
     },
+    "laspistol": {
+        "sounds": [
+            "laspistol"
+        ]
+    },
     "arquebus": {
         "sounds": [
             {

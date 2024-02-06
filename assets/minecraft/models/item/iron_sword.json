@@ -195,6 +195,12 @@
         "custom_model_data": 1281
       },
       "model": "mythic:item/chainsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1282
+      },
+      "model": "mythic:item/guns/laspistol"
     }
   ]
 }
