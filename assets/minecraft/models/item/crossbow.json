@@ -1,9 +1,42 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/crossbow"
+    "layer0": "minecraft:item/crossbow_standby"
   },
   "overrides": [
+    {
+      "predicate": {
+        "pulling": 1
+      },
+      "model": "minecraft:item/crossbow_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.58
+      },
+      "model": "minecraft:item/crossbow_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 1
+      },
+      "model": "minecraft:item/crossbow_pulling_2"
+    },
+    {
+      "predicate": {
+        "charged": 1
+      },
+      "model": "minecraft:item/crossbow_arrow"
+    },
+    {
+      "predicate": {
+        "charged": 1,
+        "firework": 1
+      },
+      "model": "minecraft:item/crossbow_firework"
+    },
     {
       "predicate": {
         "custom_model_data": 1285
