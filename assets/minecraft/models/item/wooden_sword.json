@@ -93,6 +93,18 @@
         "custom_model_data": 1264
       },
       "model": "mythic:item/wood/waraxe_wood"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1290
+      },
+      "model": "mythic:item/wands/grand_mage_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1291
+      },
+      "model": "mythic:item/wands/elder_mage_wand"
     }
   ]
 }

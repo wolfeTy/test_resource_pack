@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "textures": {
     "0": "mythic:item/spills/oil_spill_side",
-    "particle": "mythic:item/spillsoil_spill_side"
+    "particle": "mythic:item/spills/oil_spill_side"
   },
   "elements": [
     {
