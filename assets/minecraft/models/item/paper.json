@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1292
+      },
+      "model": "mythic:item/spells/call_lightning"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1293
+      },
+      "model": "mythic:item/spells/heal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1294
+      },
+      "model": "mythic:item/spells/leap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1295
+      },
+      "model": "mythic:item/spells/summon_undead"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1296
+      },
+      "model": "mythic:item/spells/flame_strike"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1297
+      },
+      "model": "mythic:item/spells/daggers"
+    }
+  ]
+}
