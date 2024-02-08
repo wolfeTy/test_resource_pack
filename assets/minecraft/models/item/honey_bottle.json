@@ -15,6 +15,30 @@
         "custom_model_data": 1221
       },
       "model": "mythic:item/fallout/nuka_cola"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1298
+      },
+      "model": "mythic:item/mana/small_mana_vial"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1299
+      },
+      "model": "mythic:item/mana/medium_mana_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1300
+      },
+      "model": "mythic:item/mana/large_mana_potion"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1301
+      },
+      "model": "mythic:item/mana/xl_mana_potion"
     }
   ]
 }
