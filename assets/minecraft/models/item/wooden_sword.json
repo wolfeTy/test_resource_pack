@@ -105,6 +105,30 @@
         "custom_model_data": 1291
       },
       "model": "mythic:item/wands/elder_mage_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1302
+      },
+      "model": "mythic:item/staffs/makeshift_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1303
+      },
+      "model": "mythic:item/staffs/simple_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1304
+      },
+      "model": "mythic:item/staffs/apprentice_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1305
+      },
+      "model": "mythic:item/staffs/mage_staff"
     }
   ]
 }
